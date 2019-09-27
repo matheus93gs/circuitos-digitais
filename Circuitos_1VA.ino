@@ -66,6 +66,6 @@ void loop()
     i++;
   }
   
- //Foi usando o https://www.arduino.cc/reference/en/language/structure/boolean-operators/logicaland/ para realizar as operações booleanas
+ //Foi usando o https://www.arduino.cc/reference/en/language/structure/boolean-operators para realizar as operações booleanas
 
 }
